@@ -20,4 +20,4 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_tbvgvtwshY" frameborder="0"></iframe>
+[![Assista o vídeo](https://img.youtube.com/vi/_tbvgvtwshY/hqdefault.jpg)](https://www.youtube.com/watch?v=_tbvgvtwshY)
