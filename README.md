@@ -1,5 +1,7 @@
-- ❔ Aoba!👋 Meu nome é Luiz Fernando, mais um apaixonado pelo que a tecnologia pode nos proporcionar, procuro aprender um pouco de tudo do que está ao meu alcance relacionado a mesma!
-- 📖 Atualmente tentando aprender HTML, CSS e Javascript e Python.
-- 🚩 Começando baixo, a primeira meta é um site para a loja do meu Pai, será muito gratificante.
-- 📩 E-mail: luizstw7@gmail.com
-- 💬 Sinta-se livre para entrar em contato, compartilhar dicas, sugestões ou até mesmo ajudar em algo, igualmente, espero poder te ajudar da mesma forma.
+# 🍃 Luiz Fernando
+
+##`Futuro Desenvolvedor Front-End`##
+
+Como já é notável em vários lugares do perfil, me chamo Luiz, 19 anos
+Atualmente curando Ténico em Informática para Internet, no instituto Senac
+Como muita gente no meio, sou apaixonado desde criança por tudo que a tecnologia pode nos proporcionar, e procuro sempre aprender um pouco de tudo que esteja ao meu alcance
