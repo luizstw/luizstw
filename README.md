@@ -37,7 +37,7 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 </details>
 
 <p align="center">
-    <a href="https://osu.ppy.sh/users/13374872"><img width="62px" alt="osu" title="osu" src="https://i.imgur.com/ojztpA8.png">
+    <a href="https://osu.ppy.sh/users/13374872"><img width="62px" alt="osu!" title="osu!" src="https://i.imgur.com/ojztpA8.png">
     <a href="https://steamcommunity.com/id/ntlxiin/"><img width="62px" alt="steam" title="steam" src="https://i.imgur.com/FMdnTXp.png">
     <a href="https://linktr.ee/liixz"><img width="62px" alt="linktree" title="linktree" src="https://i.imgur.com/Uxw28Hn.png">
 </p>
