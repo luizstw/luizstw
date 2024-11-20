@@ -7,7 +7,7 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 - Desenvolver serviços web, tais como aplicações e sites;
 - Codificação de Front e Back-end;
 - Estruturação com Banco de Dados;
-- E Desenevolvimento de serviços web para Mobile.<br>
+- E Desenvolvimento de serviços web para Mobile.<br>
 
 ---
 
