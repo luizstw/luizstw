@@ -19,5 +19,3 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 (O E-mail para contato está nas informações ao lado, abaixo da foto de perfil)
 
 ---
-
-[![Assista o vídeo](https://img.youtube.com/vi/_tbvgvtwshY/hqdefault.jpg)](https://www.youtube.com/watch?v=_tbvgvtwshY)
