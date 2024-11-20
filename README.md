@@ -1,6 +1,6 @@
 # 🍃 Luiz Fernando
 
-##`Futuro Desenvolvedor Front-End`##
+**`Futuro Desenvolvedor Front-End`**
 
 Como já é notável em vários lugares do perfil, me chamo Luiz, 19 anos
 Atualmente curando Ténico em Informática para Internet, no instituto Senac
