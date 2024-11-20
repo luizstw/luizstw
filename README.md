@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor Front-End`**
 
-Como é notável em vários lugares do perfil, me chamo Luiz, 19 anos, atualmente cursando "Técnico em Informática para Internet", no instituto Senac<br>
+Como é notável em vários lugares do perfil, me chamo Luiz, 19 anos, atualmente cursando "Técnico em Informática para Internet"<br>
 Este curso tem como pontos chaves fazer com que eu esteja apto para:
 - Desenvolver serviços web, tais como aplicações e sites;
 - Codificação de Front e Back-end;
