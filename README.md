@@ -19,9 +19,3 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 (O E-mail para contato está nas informações ao lado, abaixo da foto de perfil)
 
 ---
-
-<details><summary>Biblioteca de Jogos</summary>
-<img href="https://imgur.com/P9zonqm" alt="j1">
-<img href="https://imgur.com/p888lur" alt="j2">
-<img href="https://imgur.com/GAArDF5" alt="j3">
-</details>
